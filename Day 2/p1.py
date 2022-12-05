@@ -5,7 +5,7 @@
 
 ## FILE HANDLING
 # open the file in reading mode
-file = open('input.txt', 'r')
+file = open('Day 2\input.txt', 'r')
 # grab the lines
 lines = file.readlines()
 # close the file
