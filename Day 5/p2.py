@@ -3,7 +3,7 @@
 ## Day 5, Problem 2
 ## Dominic R. 2022
 
-file = open('Day 5\input.txt', 'r')
+file = open('input.txt', 'r')
 lines = file.readlines()
 file.close()
 
