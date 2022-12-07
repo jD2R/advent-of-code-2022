@@ -8,7 +8,7 @@ My solutions for the Advent of Code 2022 puzzles in Python.
  - [x] Day 4: Camp Cleanup
  - [x] Day 5: Supply Stacks
  - [x] Day 6: Tuning Trouble
- - [ ] Day 7
+ - [x] Day 7: No Space Left on Device
  - [ ] Day 8
  - [ ] Day 9
  - [ ] Day 10
