@@ -10,8 +10,8 @@ My solutions for the Advent of Code 2022 puzzles in Python.
  - [x] Day 6: Tuning Trouble
  - [x] Day 7: No Space Left on Device
  - [x] Day 8: Treetop Tree House
- - [ ] Day 9
- - [ ] Day 10
+ - [x] Day 9: Rope Bridge
+ - [x] Day 10: Cathode-Ray Tube
  - [ ] Day 11
  - [ ] Day 12
  - [ ] Day 13
